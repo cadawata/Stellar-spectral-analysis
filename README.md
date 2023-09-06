@@ -1,1 +1,2 @@
-# Stellar-spectral-analysis
+# Stellar-spectral-analysis\
+Kate Boyer
